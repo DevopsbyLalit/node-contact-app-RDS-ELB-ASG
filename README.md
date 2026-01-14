@@ -6,6 +6,10 @@ It allows users to submit a username through UI which gets stored in the cloud d
 This project is perfect for **Cloud Computing / DevOps internships** and demonstrates real-world deployment.
 
 ---
+```
+<img width="1536" height="1024" alt="ChatGPT Image Jan 14, 2026, 01_33_05 PM" src="https://github.com/user-attachments/assets/7aa90ec4-c544-42eb-b00a-f6fe8f7695f6" />
+
+
 
 ## 🚀 Features
 
